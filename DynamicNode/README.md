@@ -1,4 +1,4 @@
-# DynamicNode  
+# Dynamic Node  
 
 In the existing blockchain platforms, if there's a new node joining, the old node has to wait and re-modify after the downtime, then the network will take effect after the network reboot. This process is unacceptable for most business scenarios; thus, how to ensure high availability, scalability, and performance is the greatest challenge to commercial blockchain networks.
 
