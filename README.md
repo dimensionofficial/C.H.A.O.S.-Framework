@@ -1,15 +1,14 @@
-# C.H.A.O.S.
+# C.H.A.O.S. Introduction
 
-- Dimension's proposed cross-consensus operating system, C.H.A.O.S., which stands for Cross-Hybrid Automated Operating System.
+The Cross-Hybrid Automated Operating System, as known as C.H.A.O.S., contains three core modules: the hybrid consensus - HPoS, Dynamic Node, and the cross consensus engine - Consensus X. The system adopts the benefits of the multi-consensus algorithm, enhances the scalability and adaptivity of the network with the dynamic node, and supports the pluggability and switchability of cross consensus network operations
 
-- Includes three core modules: 
+Includes three core modules: 
   - HPoS 
   - Dynamic Node  
   - ConsensusX.  
 
-- C.H.A.O.S. combines the advantages of different consensus algorithms, and it has the dynamic function to adjust the size of nodes, which can easily adapt the rapid changes for different user networks and allows multiple consensuses algorithms switch in seconds. 
 
-## FrameWork Diagram  
----
+## Framework Diagram  
+
 
 ![Framework](Pic/Framework.png)
