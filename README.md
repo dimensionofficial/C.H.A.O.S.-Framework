@@ -12,3 +12,8 @@ Includes three core modules:
 
 
 ![Framework](Pic/Framework.png)
+
+
+
+## Resources
+Website](https://dimensionchain.io)
