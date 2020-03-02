@@ -6,7 +6,7 @@ The quantity adjustment of nodes in Dimension network is implemented by the Dyna
 
 The quantity adjustment proposal requires two-thirds votes from existing nodes. The Dimension network will then maintain the entire accounting task after the new adjustment. This dynamic adjustment not only improves the flexibility of the blockchain system, but it also ensures smoother operation of the network, which also reduces costs and avoids potential risks.
 
-## Mechanism Overview
+## Overview
 
 When the entire blockchain network continues to run, multiple business parties want to participate in the production of nodes at different times. In order to satisfy the appeal in this application scenario, one of the characteristics of dynamic nodes is to allow the number of outgoing nodes on the blockchain network to change dynamically, which is no longer limited by the number set at the initial start of the main-net, but allows the blockchain network to flexibly adjust according to different business requirements.
 
