@@ -18,7 +18,7 @@ In the Dimension network, users need to stake EON to obtain the corresponding vo
 
 Accounts in Dimension are classified into different categories according to the number of EON stakes, and different roles have different rights and obligations.
 
-![Alt text](https://github.com/dimensionofficial/C.H.A.O.S./blob/master/Pic/DynamicNode-system%20roles.png)
+![](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/blob/master/Pic/DynamicNode-system%20roles.png)
 
 ## General Account
 
