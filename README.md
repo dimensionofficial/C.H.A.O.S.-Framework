@@ -11,7 +11,7 @@ Includes three core modules:
 ## Framework Diagram  
 
 
-![Framework](Pic/Framework.png)
+![Framework](./Pic/Framework.png)
 
 
 
