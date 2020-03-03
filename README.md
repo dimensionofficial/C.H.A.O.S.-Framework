@@ -5,8 +5,11 @@ The Cross-Hybrid Automated Operating System, as known as C.H.A.O.S., contains th
 Includes three core modules: 
   - HPoS 
   - Dynamic Node  
+  https://dimensionchain.io/article.html?id=1571990752014  
+  https://dimensionchain.io/article.html?id=1572508635767
   - ConsensusX.  
-
+  https://dimensionchain.io/article.html?id=1573538509383  
+  https://dimensionchain.io/article.html?id=1578295772140
 
 ## Framework Diagram  
 
