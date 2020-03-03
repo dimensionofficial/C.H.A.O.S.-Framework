@@ -8,8 +8,10 @@ Includes three core modules:
   - Dynamic Node  
   https://dimensionchain.io/article.html?id=1571990752014  
   https://dimensionchain.io/article.html?id=1572508635767
-  - ConsensusX.  
+  - ConsensusX  
   https://dimensionchain.io/article.html?id=1573538509383  
+  https://dimensionchain.io/article.html?id=1578295772140
+  - Vote Proposal  
   https://dimensionchain.io/article.html?id=1578295772140
 
 ## Framework Diagram  
