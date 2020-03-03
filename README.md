@@ -3,7 +3,8 @@
 The Cross-Hybrid Automated Operating System, as known as C.H.A.O.S., contains three core modules: the hybrid consensus - HPoS, Dynamic Node, and the cross consensus engine - Consensus X. The system adopts the benefits of the multi-consensus algorithm, enhances the scalability and adaptivity of the network with the dynamic node, and supports the pluggability and switchability of cross consensus network operations.
 
 Includes three core modules: 
-  - HPoS 
+  - HPoS  
+  https://dimensionchain.io/article.html?id=1573538509383  
   - Dynamic Node  
   https://dimensionchain.io/article.html?id=1571990752014  
   https://dimensionchain.io/article.html?id=1572508635767
@@ -19,4 +20,5 @@ Includes three core modules:
 
 
 ## Resources
-Website](https://dimensionchain.io)
+Technical Whitepaper  
+https://github.com/dimensionofficial/Documentation-Report/blob/master/Dimension_Technical_Whitepaper_EN.pdf  
