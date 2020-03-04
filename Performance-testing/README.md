@@ -15,10 +15,10 @@ mkdir ~/eon.data
 cat << EOF > ~/eon.data/logging.json
 ```
 - b. BOOT NODE STARTS A single-node test network for block and package transactions
-- C. Start a single non-block full node and load the plug-in
-- D. Create the Wallet, import the Dimension private key, and set the bios contract
-- E. The full node begins to generate transactions, such as 20 transactions per 20ms (i. e. 1000TPS) 
-- F. Observe the packing performance of the boot node
+- c. Start a single non-block full node and load the plug-in
+- d. Create the Wallet, import the Dimension private key, and set the bios contract
+- e. The full node begins to generate transactions, such as 20 transactions per 20ms (i. e. 1000TPS) 
+- f. Observe the packing performance of the boot node
 
 
 
@@ -26,8 +26,8 @@ cat << EOF > ~/eon.data/logging.json
 ![pass.png](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/blob/master/Performance-testing/1.png__thumbnail)
 
 
-- G. Adjust the parameters to increase the number of transactions, such as generating 40 transactions per 20ms (2000TPS) , and observe the packing performance of the boot node
-- H. Repeat step g until TPS can no longer be added
+- g. Adjust the parameters to increase the number of transactions, such as generating 40 transactions per 20ms (2000TPS) , and observe the packing performance of the boot node
+- h. Repeat step g until TPS can no longer be added
 
 
 ## Test results
