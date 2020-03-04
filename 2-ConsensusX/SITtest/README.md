@@ -15,7 +15,7 @@ cleon get block 10
 After running, you'll see the block information that contains the consensus number,like this
 
 
-![pass.png](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/blob/master/1-DynamicNode/SITtest/image.png)
+![pass.png](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/blob/master/2-ConsensusX/SITtest/2.png)
 
 
 - Switch consensus by initiating a proposal
@@ -24,7 +24,7 @@ After running, you'll see the block information that contains the consensus numb
 cleon get schedule
 ```
 
-![pass.png](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/blob/master/1-DynamicNode/SITtest/image.png)
+![pass.png](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/blob/master/2-ConsensusX/SITtest/1.png)
 
 ## Test content
 
