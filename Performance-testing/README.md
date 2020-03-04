@@ -1,7 +1,7 @@
 # Performance-testing 
 
 
-## 2 test methods
+## test methods
 
 - Dimension built in a Txn plug-in, can initiate bulk transfer transactions, so this pressure test also use this plug-in test, plug-in official description
 
