@@ -22,7 +22,7 @@ After running, you will be prompted to enter the http-server-address port of the
 
 You can run the logic test script by entering it correctly. The following figure shows the verification.
 
-![pass.png](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/1-DynamicNode/SITtest/image.png)
+![pass.png](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/blob/master/1-DynamicNode/SITtest/image.png)
 
 ## Test content
 
