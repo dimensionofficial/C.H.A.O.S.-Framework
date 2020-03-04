@@ -8,7 +8,7 @@
 
 ## test steps
 
-- a.Create Data and configuration files 
+- a. Create Data and configuration files 
 
 ```shell
 mkdir ~/eon.data
