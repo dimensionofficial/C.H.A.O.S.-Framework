@@ -15,7 +15,7 @@ cleon system listproposals
 After running, you'll see the all proposals,like this
 
 
-![pass.png](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/blob/master/2-ConsensusX/SITtest/2.png)
+![pass.png](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/blob/master/4-Vote/SITtest/3.png)
 
 
 - Vote according to the serial number of the proposal
