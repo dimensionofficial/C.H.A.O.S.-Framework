@@ -1,4 +1,4 @@
-# DynamicNode logic test script description
+# DynamicNode description of test
 
 
 ## Environmental preparation
