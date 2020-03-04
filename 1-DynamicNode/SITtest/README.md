@@ -1,20 +1,20 @@
-#Dynamic node logic test script description
+#DynamicNode logic test script description
 
 
 ## Environmental preparation
 
 - Local nodeos is up and connected to the testnet
-- Have executed sudo ./eosio_install.sh or dimension code installed in the root directory
+- Have executed sudo ./eonio_install.sh or dimension code installed in the root directory
 
 ## Operation instructions
 
 ```shell
-git clone https://github.com/dimensionofficial/dimension-testnet.git
-cd dimension-testnet/test
+git clone https://github.com/dimensionofficial/C.H.A.O.S.-Framework.git
+cd C.H.A.O.S.-Framework/1-DynamicNode/SITtest
 ./logic.sh
 ```
 
-After running, you will be prompted to enter the http-server-address port of the nodeos that is locally connected to the test network. For example, you can enter
+After running, you will be prompted to enter the http-server-address port of the nodeon that is locally connected to the test network. For example, you can enter
 
 ```shell
 8888
