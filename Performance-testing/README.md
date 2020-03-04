@@ -53,7 +53,7 @@ curl --data-binary '["", 20, 60]' http://127.0.0.1:3333/v1/txn_test_gen/start_ge
 ```
 - The performance of BOOT node packing is shown in the figure below. It is observed that TPS fluctuates between 800-3700, and latency also fluctuates between 60-400ms with the fluctuation of block trading volume.
 
-![pass.png](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/blob/master/Performance-testing/3.png__thumbnail)
+![pass.png](https://github.com/dimensionofficial/C.H.A.O.S.-Framework/blob/master/Performance-testing/32.png__thumbnail)
 
 - Final results
 -To sum up, in a single-node Cloud Server (8 GB of memory, 4-core Intel r Xeon R Platinum 8269 CY CPU@2.50 GHZ) test environment, the maximum TPS that can be achieved by invoking the simplest permission check transaction (an average CPU cost of 100 per transaction and a net average cost of 20) is 3900, which is consistent with the Eos main network.
