@@ -36,7 +36,7 @@ namespace eosiosystem {
             });
          }
       } else {
-         //print( "ram market already created" );
+         //print( "ram market already create" );
       }
    }
 
