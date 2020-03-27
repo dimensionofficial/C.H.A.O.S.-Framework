@@ -45,13 +45,7 @@ namespace eosio { namespace chain {
                }
             }
 
-            inline void check_block_write() {
-               if (!block_write) {
-                  block_stream.close();
-                  block_stream.open(block_file.generic_string().c_str(), LOG_WRITE);
-                  block_write = true;
-               }
-            }
+          
 
             inline void check_index_read() {
                try {
