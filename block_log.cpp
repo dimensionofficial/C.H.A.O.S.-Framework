@@ -85,11 +85,7 @@ namespace eosio { namespace chain {
       my = std::move(other.my);
    }
 
-   block_log::~block_log() {
-      if (my) {
-         flush();
-         my.reset();
-      }
+
    }
 
    void block_log::open(const fc::path& data_dir) {
