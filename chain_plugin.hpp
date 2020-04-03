@@ -35,7 +35,6 @@ namespace eosio {
    using chain::transaction_id_type;
    using fc::optional;
    using boost::container::flat_set;
-   using chain::asset;
    using chain::symbol;
    using chain::authority;
    using chain::account_name;
