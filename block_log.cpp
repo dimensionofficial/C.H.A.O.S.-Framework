@@ -1,7 +1,6 @@
 /**
  *  @file
- *  @copyright defined in eos/LICENSE.txt
- */
+  */
 #include <eosio/chain/block_log.hpp>
 #include <eosio/chain/exceptions.hpp>
 #include <fstream>
