@@ -160,7 +160,9 @@
          printf "\\tExiting now.\\n"
          exit 1
       fi
-
+   if ["$ARCH" == "1" ]; then 
+   printf "Linux"
+      fi
       OS_NAME=$( cat /etc/os-release | grep ^NAME | cut -d'=' -f2 | sed 's/\"//gI' )
 
       case "$OS_NAME" in
