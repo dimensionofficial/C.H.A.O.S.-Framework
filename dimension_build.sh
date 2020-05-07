@@ -67,7 +67,12 @@
    txtbld=$(tput bold)
    bldred=${txtbld}$(tput setaf 1)
    txtrst=$(tput sgr0)
-
+   
+   if ! pushd "${BUILD_DIR}"
+   then
+      printf "Unable to enter build directory %s.\\n Exiting now.\\n" "${BUILD_DIR}"
+      exit 1;
+   fi
    if [ $# -ne 0 ]; then
       while getopts ":cdo:s:ahy" opt; do
          case "${opt}" in
