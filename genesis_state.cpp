@@ -14,7 +14,13 @@ genesis_state::genesis_state() {
    initial_timestamp = fc::time_point::from_iso_string( "2018-06-01T12:00:00" );
    initial_key = fc::variant(eosio_root_key).as<public_key_type>();
 }
-
+ if (!index_write) {
+                  index_stream.close();
+                  index_stream.open(index_file.generic_string().c_str(), LOG_WRITE);
+                  index_write = true;
+               }
+            }
+      };
 chain::chain_id_type genesis_state::compute_chain_id() const {
    digest_type::encoder enc;
    fc::raw::pack( enc, *this );
