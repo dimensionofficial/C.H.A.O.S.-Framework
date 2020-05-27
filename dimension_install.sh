@@ -83,7 +83,7 @@ fi
       printf "\\n\\tError occurred while trying to remove old installation!\\n\\n"
       exit -1
    fi
-
+echo "scripts/clean_old_install.sh"
    if ! pushd "${BUILD_DIR}"
    then
       printf "Unable to enter build directory %s.\\n Exiting now.\\n" "${BUILD_DIR}"
