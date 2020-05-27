@@ -184,7 +184,7 @@ void add_standard_transaction_options(CLI::App* cmd, string default_permission =
    CLI::callback_t parse_expiration = [](CLI::results_t res) -> bool {
       double value_s;
       if (res.size() == 0 || !CLI::detail::lexical_cast(res[0], value_s)) {
-         return false;
+         return false;//check if double size value
       }
 
       tx_expiration = fc::seconds(static_cast<uint64_t>(value_s));
