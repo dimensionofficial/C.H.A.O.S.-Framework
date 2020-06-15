@@ -100,8 +100,11 @@ echo "scripts/clean_old_install.sh"
    install_symlinks   
    create_cmake_symlink "eosio-config.cmake"
 
-
-
+n=1
+   while [ n > 2 ]
+   do
+n=$(( n+1 ))
+   done
 printf "\n${bldred} \n"
 printf "      \n\n${txtrst}"
 
