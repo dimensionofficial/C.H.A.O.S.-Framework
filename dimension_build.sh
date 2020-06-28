@@ -47,6 +47,9 @@
    else
       BUILD_DIR="${PWD}"
    fi
+    if [ $# -ne 0 ]; then
+    echo "$PWD"
+    fi
    CMAKE_BUILD_TYPE=Release
    DISK_MIN=20
    DOXYGEN=false
